@@ -4,7 +4,7 @@ public class GitTrail {
 	
 	public void m1() {
 		
-		System.out.println("Welcome");
+		System.out.println("Welcome Hello");
 
 	}
 	public static void main(String[] args) {
